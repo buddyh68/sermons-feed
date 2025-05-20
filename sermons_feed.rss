@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+d<?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0"
      xmlns:atom="http://www.w3.org/2005/Atom"
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
@@ -7,8 +7,8 @@
     <title>Sermons</title>
     <atom:link href="https://www.clce.org/sermons.rss?id=sermons" rel="self" type="application/rss+xml" />
     <link>https://www.clce.org/sermons</link>
-    <pubDate>Tue, 13 May 2025 15:56:12 -0500 </pubDate>
-    <lastBuildDate>Tue, 13 May 2025 15:56:12 -0500</lastBuildDate>
+    <pubDate>Tue, 20 May 2025 15:56:12 -0500 </pubDate>
+    <lastBuildDate>Tue, 20 May 2025 15:56:12 -0500</lastBuildDate>
     <description>Weekly sermon audio</description>
     <language>en-us</language>
     <itunes:explicit>no</itunes:explicit>
