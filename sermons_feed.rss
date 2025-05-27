@@ -7,8 +7,8 @@
     <title>Sermons</title>
     <atom:link href="https://www.clce.org/sermons.rss?id=sermons" rel="self" type="application/rss+xml" />
     <link>https://www.clce.org/sermons</link>
-    <pubDate>Tue, 20 May 2025 15:56:12 -0500 </pubDate>
-    <lastBuildDate>Tue, 20 May 2025 15:56:12 -0500</lastBuildDate>
+    <pubDate>Tue, 27 May 2025 15:56:12 -0500 </pubDate>
+    <lastBuildDate>Tue, 27 May 2025 15:56:12 -0500</lastBuildDate>
     <description>Weekly sermon audio</description>
     <language>en-us</language>
     <itunes:explicit>no</itunes:explicit>
@@ -22,13 +22,13 @@
     <generator>Church360º Unite</generator>
 
     <item>
-        <title>Fifth Sunday of Easter</title>
-        <link>https://www.clce.org/posts/sermons/fifth-sunday-of-easter?month=5&amp;year=2025</link>
-        <pubDate>Tue, 20 May 2025 09:39:13 -0500</pubDate>
-        <guid>https://www.clce.org/posts/sermons/fifth-sunday-of-easter?month=5&amp;year=2025</guid>
+        <title>Sixthh Sunday of Easter</title>
+        <link>https://www.clce.org/posts/sermons/sixth-sunday-of-easter?month=5&amp;year=2025</link>
+        <pubDate>Tue, 27 May 2025 09:39:13 -0500</pubDate>
+        <guid>https://www.clce.org/posts/sermons/sixth-sunday-of-easter?month=5&amp;year=2025</guid>
         <author>dan@clce.org (Daniel Hoppmann)</author>
-        <enclosure url="https://unite-production.s3.amazonaws.com/tenants/clce/audio/511980/Sermon-2025-05-18.mp3" lemgth="0" type="audio/mpeg"/>
-        <description>John 10:22-30 - Fifth Sunday of Easter - May 18, 2025</description>
+        <enclosure url="https://unite-production.s3.amazonaws.com/tenants/clce/audio/512714/Sermon-2025-05-25.mp" lemgth="0" type="audio/mpeg"/>
+        <description>John 16:23-33 - Sixth Sunday of Easter - May 25, 2025</description>
     </item>
    
   </channel>
