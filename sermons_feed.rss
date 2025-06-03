@@ -22,7 +22,15 @@
        <link>https://www.clce.org/sermons</link>
     </image>
     <generator>Church360º Unite</generator>
-
+    <item>
+        <title>The Ascension of our Lord</title>
+        <link>https://www.clce.org/posts/sermons/the-ascension-of-our-lord?month=5&amp;year=2025</link>
+        <pubDate>Fri, 30 May 2025 21:29:43 -0500</pubDate>
+        <guid>https://www.clce.org/posts/sermons/the-ascension-of-our-lord?month=5&amp;year=2025</guid>
+        <author>dan@clce.org (Daniel Hoppmann)</author>
+        <enclosure url="https://unite-production.s3.amazonaws.com/tenants/clce/audio/512714/Sermon-2025-05-29-Ascension.mp3" length="4,900,040" type="audio/mpeg"/>
+        <description>Acts 1:1-11 - The Ascension of our Lord - May 29, 2025</description>
+    </item>
     <item>
         <title>Sixth Sunday of Easter</title>
         <link>https://www.clce.org/posts/sermons/sixth-sunday-of-easter?month=5&amp;year=2025</link>
