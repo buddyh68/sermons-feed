@@ -33,7 +33,8 @@
 		<p><strong>Show Notes:</strong></p> <ul> <li dir="ltr" aria-level="1"> <p dir="ltr" role="presentation">
 		<a href= "https://unite-production.s3.amazonaws.com/tenants/clce/attachments/515606/John_8__48-59__Holy_Trinity_2025.pdf">Sermon Notes (PDF)</a></p> </li></p>]]>
         </description>
-	<enclosure url="https://unite-production.s3.amazonaws.com/tenants/clce/audio/515607/Sermon-2025-06-15.mp3" length="4900040" type="audio/mpeg"/>	
+	<enclosure url="https://unite-production.s3.amazonaws.com/tenants/clce/audio/515607/Sermon-2025-06-15.mp3" length="4900040" type="audio/mpeg"/>
+	<itunes:duration>15:37</itunes:duration>
     </item>
     <item>
         <title>The Festival of Pentecost</title>
