@@ -7,11 +7,11 @@
     <title>Sermons</title>
     <atom:link href="https://www.clce.org/sermons.rss?id=sermons" rel="self" type="application/rss+xml" />
     <link>https://www.clce.org/sermons</link>
-    <pubDate>Thu, 12 June 2025 15:56:12 -0500</pubDate>
-    <lastBuildDate>Thu, 17 June 2025 15:56:12 -0500</lastBuildDate>
+    <pubDate>Thu, 12 June 2025 15:56:12 CST</pubDate>
+    <lastBuildDate>Thu, 17 June 2025 15:56:12 CST</lastBuildDate>
     <description>Weekly sermon audio</description>
     <language>en-us</language>
-    <itunes:explicit>no</itunes:explicit>
+    <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Religion &amp; Spirituality">
           <itunes:category text="Religion" />
     </itunes:category>
