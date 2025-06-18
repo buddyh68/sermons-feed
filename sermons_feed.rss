@@ -28,8 +28,12 @@
         <pubDate>Tue, 17 Jun 2025 10:28:41 -0500</pubDate>
         <guid>https://www.clce.org/posts/sermons/the-festival-of-the-holy-trinity?month=6&amp;year=2025</guid>
         <author>dan@clce.org (Daniel Hoppmann)</author>
-	<enclosure url="https://unite-production.s3.amazonaws.com/tenants/clce/audio/515607/Sermon-2025-06-15.mp3" length="4,900,040" type="audio/mpeg"/>		
-        <description>John 8:48-59 - The Festival of the Holy Trinity - June 15, 2025<a href="https://unite-production.s3.amazonaws.com/tenants/clce/attachments/515606/John_8__48-59__Holy_Trinity_2025.pdf">Sermon notes (PDF)</a>.</description>
+	<description>   
+		<![CDATA[<p>John 8:48-59 - The Festival of the Holy Trinity - June 15, 2025</p> 
+		<p><strong>Show Notes:</strong></p> <ul> <li dir="ltr" aria-level="1"> <p dir="ltr" role="presentation">
+		<a href= "https://unite-production.s3.amazonaws.com/tenants/clce/attachments/515606/John_8__48-59__Holy_Trinity_2025.pdf">Sermon Notes (PDF)</a></p> </li></p>]]>
+        </description>
+	<enclosure url="https://unite-production.s3.amazonaws.com/tenants/clce/audio/515607/Sermon-2025-06-15.mp3" length="4,900,040" type="audio/mpeg"/>	
     </item>
     <item>
         <title>The Festival of Pentecost</title>
