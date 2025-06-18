@@ -8,7 +8,7 @@
     <atom:link href="https://www.clce.org/sermons.rss?id=sermons" rel="self" type="application/rss+xml" />
     <link>https://www.clce.org/sermons</link>
     <pubDate>Thu, 12 June 2025 15:56:12 CDT</pubDate>
-    <lastBuildDate>Thu, 18 June 2025 11:40:12 CDT</lastBuildDate>
+    <lastBuildDate>Thu, 18 June 2025 12:00:12 CDT</lastBuildDate>
     <description>Weekly sermon audio</description>
     <language>en-us</language>
     <itunes:explicit>false</itunes:explicit>
@@ -25,14 +25,29 @@
     <item>
         <title>The Festival of the Holy Trinity</title>
         <link>https://www.clce.org/posts/sermons/the-festival-of-the-holy-trinity?month=6&amp;year=2025</link>
-        <pubDate>Tue, 17 Jun 2025 11:28:41 -0500</pubDate>
+        <pubDate>Tue, 17 Jun 2025 12:00:41 -0500</pubDate>
         <guid>https://www.clce.org/posts/sermons/the-festival-of-the-holy-trinity?month=6&amp;year=2025</guid>
         <author>dan@clce.org (Daniel Hoppmann)</author>
 	<description>   
 		<![CDATA[<p>John 8:48-59 - The Festival of the Holy Trinity - June 15, 2025</p> 
-		<p><strong>Show Notes:</strong></p> <ul> <li dir="ltr" aria-level="1"> <p dir="ltr" role="presentation">
-		<a href= "https://unite-production.s3.amazonaws.com/tenants/clce/attachments/515606/John_8__48-59__Holy_Trinity_2025.pdf">Sermon Notes (PDF)</a></p> </li></p>]]>
+		<p><strong>Show Notes:</strong></p> 
+			<ul><li dir="ltr" aria-level="1"> 
+				<p dir="ltr" role="presentation">
+		<a href= "https://unite-production.s3.amazonaws.com/tenants/clce/attachments/515606/John_8__48-59__Holy_Trinity_2025.pdf">Sermon Notes (PDF)</a>
+				</p> 
+			    </li>
+		</p>]]>
         </description>
+	<content:encoded>   
+		<![CDATA[<p>John 8:48-59 - The Festival of the Holy Trinity - June 15, 2025</p> 
+		<p><strong>Show Notes:</strong></p> 
+			<ul><li dir="ltr" aria-level="1"> 
+				<p dir="ltr" role="presentation">
+		<a href= "https://unite-production.s3.amazonaws.com/tenants/clce/attachments/515606/John_8__48-59__Holy_Trinity_2025.pdf">Sermon Notes (PDF)</a>
+				</p> 
+			    </li>
+		</p>]]>
+	</content:encoded>
 	<enclosure url="https://unite-production.s3.amazonaws.com/tenants/clce/audio/515607/Sermon-2025-06-15.mp3" length="4900040" type="audio/mpeg"/>
 	<itunes:duration>15:37</itunes:duration>
     </item>
